@@ -9,13 +9,18 @@
         </style>
     </head>
       <body>
-       <h1> Buying a Yacht? </h1>
-        <p> When buying a yacht, there are a lot of things to consider.  </p>
-          
-        <p> </p>
-          <img src="" />
-        <p> </p>
-          <ul> </ul>
+       <p> When buying a yacht, there are a few tips you should know! </p>
+        <ol>
+            <li>Determine the type of boat you want and whether or not you want a new or used boat.<br>
+             <p> The type of boat you get can be the difference between an $180,000 boat and a $$500,000 boat.<br> You also want to look at if the boat is used or new. Sometimes a used boat can be worth more than <br>an older boat, depending on the previous owner. </p>
+           <li>Know the boats worth. </li>
+          <p>When your looking for a new boat, you always want to make sure the seller isn't over  charging you.</p>
+          <li>Look at your options.</li>
+          <p>When you have finally decided what kind of boat you want, look at multiple sellers. Look at the<br> different accessories that each of the boats ccome with and choose the best boat for you.</p>
+          <li>Finally, conduct a walk around.</li>
+          <p>Before you buy you yacht of choosing, have and inspecter walk around the boat with you to make<br> sure everything is safe and sound. This is an important step to purchasing you yacht. The last thing <br>you want is to have you yacht go up in flames because of a lose wire no one saw.</p>
+        </ol>
+        <p>For more information on things to consider when buying a yacht, visit <a href="https://www.cruisingworld.com/15-tips-for-buying-boat">Cruisingworld.com</a>
           <h2> Best Yachts to Purchase </h2>
         <p> &emsp;Purchasing a yacht is not the easiest task to do. These boats can range upwards of millions of dollars to purchase. According to <a href="http://www.boats.com/boat-buyers-guide/how-to-buy-a-boat-tips-for-a-first-time-buyer/#.Wm924VUrKUk"> boats.com</a>, it is important for you to understand your options, preferences, and budget before you make a decision. Besides this fact, these are yacht brands you should really consider.</p>
         <ol> 
