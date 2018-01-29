@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Spam Mail Click Here </title>
+  <title>How to Buy Your Dream Yatch</title>
 </head>
 <body>
 </body>
