@@ -33,10 +33,10 @@
           <li> Fincantieri Yachts (Italy) - A popular yacht company that can produce the boats without any limitations. </li>
         </ul>
         <img src="https://blog.zizoo.com/wp-content/uploads/2015/10/Superyacht-A.jpg" />
+         <p> &emsp;It is essential to understand the fact that a cheap yacht is not a durable or efficient yacht. You may end up relinquishing your wealth to pay for the leaks and fuel for a yacht that is not efficient or very durable. Think twice before you make that final purchase. It is important to understand that the maintenence and other eventual costs will be significant in the long run, and you need to be prepared to pay to cover these issues. </p>
+        <h1>History of Yachts</h1>
         <h6> *This was made according to <a href="http://www.yachting-pages.com/content/top-10-luxury-yacht-builders-guide.html"> Yachting-Pages Media Group</a> </h6>
           <h2> Think before you buy! </h2> 
-        <p> &emsp;It is essential to understand the fact that a cheap yacht is not a durable or efficient yacht. You may end up relinquishing your wealth to pay for the leaks and fuel for a yacht that is not efficient or very durable. Think twice before you make that final purchase. It is important to understand that the maintenence and other eventual costs will be significant in the long run, and you need to be prepared to pay to cover these issues. </p>
-        <h1>History of Yachts</h1>
         <p>&emsp;The first Yachts' were used by many explorers in the 17th Century. It was very spacious that it could hold <br>several men and several months' worth of suplies. In the 1600's, these Yachts' were used as war ships' for<br> passing on information quickly and battles because they were so fast and nimble.</p>
         <p>&emsp;It wasn't until the late 1600's that Yachting became an act of pleasure. Yachts' today have been improved from<br> the basic sturdy vessels used to transport explorers around the world. Motorization, differing sizes, increased<br> safety, equipment and technology have been used to help make yachts' a more enjoyable for everyone.</p>
       </body>
