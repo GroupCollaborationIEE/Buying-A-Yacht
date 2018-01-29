@@ -3,14 +3,14 @@
     <head>
        <title>How to Buy Your Dream Yatch</title>
         <style>
-          h1{
+          body{background-color: tan}
        
        
         </style>
     </head>
       <body>
-       <h1> Pros and Cons: Yachts </h1>
-        <p>  </p>
+       <h1> Buying a Yacht? </h1>
+        <p> When buying a yacht, there are a lot of things to consider.  </p>
           
         <p> </p>
           <img src="" />
