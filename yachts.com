@@ -15,9 +15,13 @@
         <p> </p>
           <img src="" />
         <p> </p>
-          <ol> </ol> 
           <ul> </ul>
+          <h2> Best Yachts to Purchase </h2>
         <p>  </p>
+        <ol> </ol>
+          <h2> Worst Yachts to Purchase </h2> 
+        <p> </p>
+        <ol> </ol> 
           <img src="" />
       </body>
   </html>
