@@ -34,8 +34,8 @@
           <h2> Worst Yachts to Purchase </h2> 
         <p> &emsp;It is essential to understand the fact that a cheap yacht is not a durable or efficient yacht. You may end<br> up relinquishing your wealth to pay for the leaks and fuel for a yacht that is not efficient or very durable.<br> Think twice before you make that final purchase.</p>
         <h1>History of Yachts</h1>
-        <p>The first Yachts' were used by many explorers in the 17th Century. It was very spacious that it could hold <br>several men and several months' worth of suplies. In the 1600's, these Yachts' were used as war ships' for<br> passing on information quickly and battles because they were so fast and nimble.</p>
+        <p>&emsp;The first Yachts' were used by many explorers in the 17th Century. It was very spacious that it could hold <br>several men and several months' worth of suplies. In the 1600's, these Yachts' were used as war ships' for<br> passing on information quickly and battles because they were so fast and nimble.</p>
           
-        <p>It wasn't until the late 1600's that Yachting became an act of pleasure. Yachts' today have been improved from<br> the basic sturdy vessels used to transport explorers around the world. Motorization, differing sizes, increased<br> safety, equipment and technology have been used to help make yachts' a more enjoyable for everyone.</p>
+        <p>&emsp;It wasn't until the late 1600's that Yachting became an act of pleasure. Yachts' today have been improved from<br> the basic sturdy vessels used to transport explorers around the world. Motorization, differing sizes, increased<br> safety, equipment and technology have been used to help make yachts' a more enjoyable for everyone.</p>
       </body>
   </html>
