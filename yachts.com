@@ -21,7 +21,7 @@
           <li>Finally, conduct a walk around.</li>
           <p>Before you buy you yacht of choosing, have and inspecter walk around the boat with you to make<br> sure everything is safe and sound. This is an important step to purchasing you yacht. The last thing <br>you want is to have you yacht go up in flames because of a lose wire no one saw.</p>
         </ol>
-          
+        <p>For more information on things to consider when buying a yacht, visit <a href="https://www.cruisingworld.com/15-tips-for-buying-boat">Cruisingworld.com</a>
         <p> </p>
           <img src="" />
         <p> </p>
