@@ -23,6 +23,8 @@
           <p>Before you buy you yacht of choosing, have and inspecter walk around the boat with you to make<br> sure everything is safe and sound. This is an important step to purchasing you yacht. The last thing <br>you want is to have you yacht go up in flames because of a lose wire no one saw.</p>
         </ol>
         <p>For more information on things to consider when buying a yacht, visit <a href="https://www.cruisingworld.com/15-tips-for-buying-boat">Cruisingworld.com</a>
+
+
           <h2> Best Yachts to Purchase </h2>
         <p> &emsp;Purchasing a yacht is not the easiest task to do. These boats can range upwards of millions of dollars to purchase. According to <a href="http://www.boats.com/boat-buyers-guide/how-to-buy-a-boat-tips-for-a-first-time-buyer/#.Wm924VUrKUk"> boats.com</a>, it is important for you to understand your options, preferences, and budget before you make a decision. Besides this fact, these are yacht brands you should really consider.</p>
         <ul> 
